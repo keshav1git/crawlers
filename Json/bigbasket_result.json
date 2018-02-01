@@ -1,0 +1,663 @@
+{
+    "coimbatore": {
+        "SAFE HARVEST": [
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "87.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Sona Masoori Rice", 
+                "title": "SAFE HARVEST"
+            }
+        ], 
+        "BB POPULAR": [
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "260.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Sona Masoori Raw Rice...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "520.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Sona Masoori Raw Rice...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "55.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "300.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "545.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1365.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "47.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "250.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "467.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1250.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Rice - Steam, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "49.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "250.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "500.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1449.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }
+        ], 
+        "DOUBLE HORSE": [
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "57.00", 
+                "size": "500 gm Pouch", 
+                "product_name": "Broken Rice - Matta", 
+                "title": "DOUBLE HORSE"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "109.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Matta - Broken", 
+                "title": "DOUBLE HORSE"
+            }
+        ], 
+        "BB ROYAL": [
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "60.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "300.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "600.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1500.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "100.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Jeeraga Samba Rice/Seeraga Samba...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "45.00", 
+                "size": "1 kg Bag", 
+                "product_name": "Sona Masoori New Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "59.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "295.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Rice, Raw, Sona Masoori", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "580.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1500.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Sona Masoori Raw Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "450.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Kolam Rice/Kolam Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "450.00", 
+                "size": "5 kg Bag", 
+                "product_name": "HMT Kolam Rice/Kolam Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "49.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Dosa Rice/Dosa Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "100.00", 
+                "size": "2 kg Pouch", 
+                "product_name": "Dosa Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "250.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Dosa Rice/Dosa Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "55.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "275.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "550.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1375.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "50.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Broken Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "185.00", 
+                "size": "2 kg Pouch", 
+                "product_name": "Jeera/Jeeraga samba Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "700.00", 
+                "size": "Premium 10 kg", 
+                "product_name": "Ponni Raw Rice - Super Premium", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "1750.00", 
+                "size": "Premium 25 kg", 
+                "product_name": "Ponni Raw Rice - Super Premium", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "350.00", 
+                "size": "Premium 5 kg", 
+                "product_name": "Ponni Raw Rice - Super Premium", 
+                "title": "BB ROYAL"
+            }
+        ], 
+        "NIRAPARA": [
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "41.00", 
+                "size": "200 gm Pouch", 
+                "product_name": "Palada - Rice", 
+                "title": "NIRAPARA"
+            }
+        ], 
+        "MATHURA": [
+            {
+                "delivery": "Standard Delivery: Today Evening", 
+                "price": "95.00", 
+                "size": "Uppuma 500 gm", 
+                "product_name": "Broken - Rice Uppuma", 
+                "title": "MATHURA"
+            }
+        ]
+    }, 
+    "chennai": {
+        "BB POPULAR": [
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "52.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "260.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "520.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1289.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "260.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Sona Masoori Raw Rice...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "520.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Sona Masoori Raw Rice...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1239.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Sona Masoori Raw Rice...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "49.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "250.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "500.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1300.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1200.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Rice - Steam, Sona Masoori", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "50.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "250.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB POPULAR"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "500.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB POPULAR"
+            }
+        ], 
+        "BB ROYAL": [
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "59.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "295.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "580.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1449.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Ponni Raw Rice/Pacharisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1715.00", 
+                "size": "Premium 25 kg", 
+                "product_name": "Ponni Raw Rice - Super Premium", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "348.00", 
+                "size": "Premium 5 kg", 
+                "product_name": "Ponni Raw Rice - Super Premium", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "680.00", 
+                "size": "Premium 10 kg", 
+                "product_name": "Ponni Raw Rice - Super Premium", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "45.00", 
+                "size": "1 kg Bag", 
+                "product_name": "Sona Masoori New Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "59.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "295.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Rice, Raw, Sona Masoori", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "580.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Rice - Raw, Sona Masoori", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1450.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Sona Masoori Raw Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "350.00", 
+                "size": "5 kg Bag", 
+                "product_name": "HMT Kolam Rice/Kolam Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "70.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "HMT Kolam Rice/Kolam Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "88.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Kolam Rice/Kolam Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "439.00", 
+                "size": "5 kg Bag", 
+                "product_name": "Kolam Rice/Kolam Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "49.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Dosa Rice/Dosa Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "98.00", 
+                "size": "2 kg Pouch", 
+                "product_name": "Dosa Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "245.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Dosa Rice/Dosa Arisi", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "95.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Jeeraga Samba Rice/Seeraga Samba...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "55.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "275.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "550.00", 
+                "size": "10 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice/Niravi...", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "1249.00", 
+                "size": "25 kg Bag", 
+                "product_name": "Sona Masoori Steam Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "49.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Broken Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "185.00", 
+                "size": "2 kg Pouch", 
+                "product_name": "Jeera/Jeeraga samba Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "415.00", 
+                "size": "5 kg Pouch", 
+                "product_name": "Wada Kolam", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "830.00", 
+                "size": "Rice 10 kg", 
+                "product_name": "Wada Kolam Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "2075.00", 
+                "size": "Rice 25 kg", 
+                "product_name": "Wada Kolam Rice", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "84.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Wada Kolam", 
+                "title": "BB ROYAL"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "73.00", 
+                "size": "1 kg Pouch", 
+                "product_name": "Hand Pound Rice/Kaikuthal Arisi", 
+                "title": "BB ROYAL"
+            }
+        ], 
+        "MATHURA": [
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "52.00", 
+                "size": "Rice 500 gm", 
+                "product_name": "Broken - Raw Rice", 
+                "title": "MATHURA"
+            }, 
+            {
+                "delivery": "Standard Delivery: Tomorrow Morning", 
+                "price": "95.00", 
+                "size": "Uppuma 500 gm", 
+                "product_name": "Broken - Rice Uppuma", 
+                "title": "MATHURA"
+            }
+        ]
+    }, 
+    "total_rice_products_coimbatore": "167", 
+    "total_rice_products_chennai": "273"
+}
